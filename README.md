@@ -2,17 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile Badge Centered</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0; /* 배경색은 필요에 따라 조정하세요 */
-        }
-    </style>
 </head>
 <body>
     <div align="center">
