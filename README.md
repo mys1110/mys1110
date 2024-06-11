@@ -1,10 +1,11 @@
 
-
+<body>
     <div align="center">
         <a href="https://solved.ac/mys1110/">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mys1110" alt="Solved.ac Profile">
         </a>
     </div>
+</body>
 
 
 
